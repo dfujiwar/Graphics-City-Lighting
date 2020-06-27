@@ -1,0 +1,49 @@
+﻿  main.cpp
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(49,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(53,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(57,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(59,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(189,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(393,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(536,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(566,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(577,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(585,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(587,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(591,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(593,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(597,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(599,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(603,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(605,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(612,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(658,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(741,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(743,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(747,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(749,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(753,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(755,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(759,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(761,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(783,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(783,25): warning C4244:         with
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(783,25): warning C4244:         [
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(783,25): warning C4244:             T=float
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(783,25): warning C4244:         ]
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(784,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(784,25): warning C4244:         with
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(784,25): warning C4244:         [
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(784,25): warning C4244:             T=float
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(784,25): warning C4244:         ]
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(787,1): warning C4305: '+=': truncation from 'double' to 'T'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(787,1): warning C4305:         with
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(787,1): warning C4305:         [
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(787,1): warning C4305:             T=float
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(787,1): warning C4305:         ]
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(788,1): warning C4305: '+=': truncation from 'double' to 'T'
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(788,1): warning C4305:         with
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(788,1): warning C4305:         [
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(788,1): warning C4305:             T=float
+C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\src\main.cpp(788,1): warning C4305:         ]
+  lab terrain.vcxproj -> C:\Users\nical\Documents\IntroGraphics\lab terrain\lab terrain\Debug\lab terrain.exe
